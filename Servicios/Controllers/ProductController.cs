@@ -7,6 +7,7 @@ using Servicios.DataContract.Requests;
 
 namespace Servicios.Controllers
 {
+//en ensta parte de creatron los controles
     [Route("api/[controller]")]
     [ApiController]
     public class ProductController : ControllerBase
@@ -17,6 +18,7 @@ namespace Servicios.Controllers
         {
             _BLL = new ProductBLL();
         }
+        //controler de crear producto
         [HttpPost("CreateProduct")]
         public IActionResult CreateProduct([FromBody] CreateProductRequest newProduct)
         {
@@ -32,6 +34,7 @@ namespace Servicios.Controllers
                 _BLL.CreateProduct(product);
 
                 response.Code = 0;
+                //mensage de creacion de producto
                 response.Message = "Producto creado correctamente";
             }
             catch (Exception ex)
@@ -44,7 +47,7 @@ namespace Servicios.Controllers
         }
 
 
-
+//controler de eliminar producto
         [HttpDelete("DeleteProduct")]
         public IActionResult DeleteProduct([FromBody] DeleteProductRequest newProduct)
         {
