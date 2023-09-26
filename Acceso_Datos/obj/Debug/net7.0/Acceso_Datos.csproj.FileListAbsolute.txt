@@ -77,3 +77,20 @@ C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266
 C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.pdb
 C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.genruntimeconfig.cache
 C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Acceso_Datos\obj\Debug\net7.0\ref\Acceso_Datos.dll
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Acceso_Datos\bin\Debug\net7.0\Acceso_Datos.deps.json
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Acceso_Datos\bin\Debug\net7.0\Acceso_Datos.runtimeconfig.json
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Acceso_Datos\bin\Debug\net7.0\Acceso_Datos.dll
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Acceso_Datos\bin\Debug\net7.0\Acceso_Datos.pdb
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Acceso_Datos\bin\Debug\net7.0\Entidades.dll
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Acceso_Datos\bin\Debug\net7.0\Entidades.pdb
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.csproj.AssemblyReference.cache
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.AssemblyInfoInputs.cache
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.AssemblyInfo.cs
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.csproj.CopyComplete
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.dll
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Acceso_Datos\obj\Debug\net7.0\refint\Acceso_Datos.dll
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.pdb
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.genruntimeconfig.cache
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Acceso_Datos\obj\Debug\net7.0\ref\Acceso_Datos.dll

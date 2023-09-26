@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "gCCyEswNPbtkoLoD8H0YpUCTxjkOiiQuAsPhbsCU+k/V+266/qSvGx9vvilY7Tb18lS79rH3Cq9KFthLvFkb7A==",
+  "dgSpecHash": "pAIhYekAl0+L1yyO4EU4vVmIx+UbKqDeZ0dHswtQmhxKer8iyxZsA5Nt4/5EIUp7yWYp01B+NABYZZfRbnXugw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CUATACHO\\Desktop\\proyecto tecnologias\\Tools\\Tools.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Kevin Quiroga Copa\\Source\\Repos\\ExamenTE_Grupo\\Tools\\Tools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kevin Quiroga Copa\\.nuget\\packages\\system.formats.asn1\\5.0.0\\system.formats.asn1.5.0.0.nupkg.sha512",
+    "C:\\Users\\Kevin Quiroga Copa\\.nuget\\packages\\system.security.cryptography.cng\\5.0.0\\system.security.cryptography.cng.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

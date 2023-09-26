@@ -83,3 +83,20 @@ C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266
 C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Logica_Del_Negocia\obj\Debug\net7.0\refint\Logica_Del_Negocia.dll
 C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.pdb
 C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Logica_Del_Negocia\obj\Debug\net7.0\ref\Logica_Del_Negocia.dll
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Logica_Del_Negocia\bin\Debug\net7.0\Logica_Del_Negocia.deps.json
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Logica_Del_Negocia\bin\Debug\net7.0\Logica_Del_Negocia.dll
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Logica_Del_Negocia\bin\Debug\net7.0\Logica_Del_Negocia.pdb
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Logica_Del_Negocia\bin\Debug\net7.0\Acceso_Datos.dll
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Logica_Del_Negocia\bin\Debug\net7.0\Entidades.dll
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Logica_Del_Negocia\bin\Debug\net7.0\Acceso_Datos.pdb
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Logica_Del_Negocia\bin\Debug\net7.0\Entidades.pdb
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.csproj.AssemblyReference.cache
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.AssemblyInfoInputs.cache
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.AssemblyInfo.cs
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.csproj.CopyComplete
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.dll
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Logica_Del_Negocia\obj\Debug\net7.0\refint\Logica_Del_Negocia.dll
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.pdb
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Logica_Del_Negocia\obj\Debug\net7.0\ref\Logica_Del_Negocia.dll

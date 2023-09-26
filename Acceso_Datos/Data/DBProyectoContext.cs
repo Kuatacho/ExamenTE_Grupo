@@ -6,6 +6,7 @@ namespace Acceso_Datos.Data
     public class DBProyectoContext : DbContext
     {
         public DbSet<User> Users { get; set; }
+        public DbSet<Product> Products { get; set; }
 
         public DBProyectoContext() { }
 

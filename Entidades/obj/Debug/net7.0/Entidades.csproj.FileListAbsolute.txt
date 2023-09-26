@@ -55,3 +55,15 @@ C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266
 C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Entidades\obj\Debug\net7.0\refint\Entidades.dll
 C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Entidades\obj\Debug\net7.0\Entidades.pdb
 C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Entidades\obj\Debug\net7.0\ref\Entidades.dll
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Entidades\bin\Debug\net7.0\Entidades.deps.json
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Entidades\bin\Debug\net7.0\Entidades.dll
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Entidades\bin\Debug\net7.0\Entidades.pdb
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Entidades\obj\Debug\net7.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Entidades\obj\Debug\net7.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Entidades\obj\Debug\net7.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Entidades\obj\Debug\net7.0\Entidades.AssemblyInfo.cs
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Entidades\obj\Debug\net7.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Entidades\obj\Debug\net7.0\Entidades.dll
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Entidades\obj\Debug\net7.0\refint\Entidades.dll
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Entidades\obj\Debug\net7.0\Entidades.pdb
+C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Entidades\obj\Debug\net7.0\ref\Entidades.dll
