@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Entidades.Models;
+//esta parte lo hize
 namespace Servicios.Data
 {
     public class DBProyectoContext : DbContext
