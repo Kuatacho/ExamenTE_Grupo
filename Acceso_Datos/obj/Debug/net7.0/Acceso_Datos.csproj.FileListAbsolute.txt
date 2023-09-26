@@ -94,3 +94,20 @@ C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Acceso_Datos\obj\Debug\n
 C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.pdb
 C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.genruntimeconfig.cache
 C:\Users\Kevin Quiroga Copa\Source\Repos\ExamenTE_Grupo\Acceso_Datos\obj\Debug\net7.0\ref\Acceso_Datos.dll
+C:\Users\CUATACHO\Source\Repos\Kuatacho\ExamenTE_Grupo\Acceso_Datos\bin\Debug\net7.0\Acceso_Datos.deps.json
+C:\Users\CUATACHO\Source\Repos\Kuatacho\ExamenTE_Grupo\Acceso_Datos\bin\Debug\net7.0\Acceso_Datos.runtimeconfig.json
+C:\Users\CUATACHO\Source\Repos\Kuatacho\ExamenTE_Grupo\Acceso_Datos\bin\Debug\net7.0\Acceso_Datos.dll
+C:\Users\CUATACHO\Source\Repos\Kuatacho\ExamenTE_Grupo\Acceso_Datos\bin\Debug\net7.0\Acceso_Datos.pdb
+C:\Users\CUATACHO\Source\Repos\Kuatacho\ExamenTE_Grupo\Acceso_Datos\bin\Debug\net7.0\Entidades.dll
+C:\Users\CUATACHO\Source\Repos\Kuatacho\ExamenTE_Grupo\Acceso_Datos\bin\Debug\net7.0\Entidades.pdb
+C:\Users\CUATACHO\Source\Repos\Kuatacho\ExamenTE_Grupo\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.csproj.AssemblyReference.cache
+C:\Users\CUATACHO\Source\Repos\Kuatacho\ExamenTE_Grupo\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CUATACHO\Source\Repos\Kuatacho\ExamenTE_Grupo\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.AssemblyInfoInputs.cache
+C:\Users\CUATACHO\Source\Repos\Kuatacho\ExamenTE_Grupo\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.AssemblyInfo.cs
+C:\Users\CUATACHO\Source\Repos\Kuatacho\ExamenTE_Grupo\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.csproj.CoreCompileInputs.cache
+C:\Users\CUATACHO\Source\Repos\Kuatacho\ExamenTE_Grupo\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.csproj.CopyComplete
+C:\Users\CUATACHO\Source\Repos\Kuatacho\ExamenTE_Grupo\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.dll
+C:\Users\CUATACHO\Source\Repos\Kuatacho\ExamenTE_Grupo\Acceso_Datos\obj\Debug\net7.0\refint\Acceso_Datos.dll
+C:\Users\CUATACHO\Source\Repos\Kuatacho\ExamenTE_Grupo\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.pdb
+C:\Users\CUATACHO\Source\Repos\Kuatacho\ExamenTE_Grupo\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.genruntimeconfig.cache
+C:\Users\CUATACHO\Source\Repos\Kuatacho\ExamenTE_Grupo\Acceso_Datos\obj\Debug\net7.0\ref\Acceso_Datos.dll

@@ -20,6 +20,11 @@ namespace Logica_Del_Negocia.Classes
         {
             _DAL.CreateProduct(product);
         }
+
+        public void DeleteProduct(Product product)
+        {
+            _DAL.DeleteProduct(product);
+        }
     }
 
 }

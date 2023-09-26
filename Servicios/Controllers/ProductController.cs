@@ -42,6 +42,33 @@ namespace Servicios.Controllers
 
             return Ok(response);
         }
+
+
+
+        [HttpDelete("DeleteProduct")]
+        public IActionResult DeleteProduct([FromBody] DeleteProductRequest newProduct)
+        {
+            Response response = new Response();
+            Product product = new Product();
+
+            try
+            {
+
+               product.Id= newProduct.Id;
+
+                _BLL.DeleteProduct(product);
+
+                response.Code = 0;
+                response.Message = "Producto eliminado correctamente";
+            }
+            catch (Exception ex)
+            {
+                response.Code = Convert.ToSByte(-1);
+                response.Message = ex.ToString();
+            }
+
+            return Ok(response);
+        }
     }
 }
 

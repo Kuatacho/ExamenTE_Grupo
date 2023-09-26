@@ -16,6 +16,15 @@ namespace Acceso_Datos.DAL
             db.Products.Add(product);
             db.SaveChanges();
         }
+
+        public void DeleteProduct(Product product)
+        {
+            var db = new DBProyectoContext();
+            
+            var producto= db.Products.FirstOrDefault(p => p.Id == product.Id);
+            db.Products.Remove(producto);
+            db.SaveChanges();
+        }
     }
    
 }

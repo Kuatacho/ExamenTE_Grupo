@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kevin Quiroga Copa\\Source\\Repos\\ExamenTE_Grupo\\Servicios\\Servicios.csproj": {}
+    "C:\\Users\\CUATACHO\\Source\\Repos\\Kuatacho\\ExamenTE_Grupo\\Servicios\\Servicios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kevin Quiroga Copa\\Source\\Repos\\ExamenTE_Grupo\\Acceso_Datos\\Acceso_Datos.csproj": {
+    "C:\\Users\\CUATACHO\\Source\\Repos\\Kuatacho\\ExamenTE_Grupo\\Acceso_Datos\\Acceso_Datos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kevin Quiroga Copa\\Source\\Repos\\ExamenTE_Grupo\\Acceso_Datos\\Acceso_Datos.csproj",
+        "projectUniqueName": "C:\\Users\\CUATACHO\\Source\\Repos\\Kuatacho\\ExamenTE_Grupo\\Acceso_Datos\\Acceso_Datos.csproj",
         "projectName": "Acceso_Datos",
-        "projectPath": "C:\\Users\\Kevin Quiroga Copa\\Source\\Repos\\ExamenTE_Grupo\\Acceso_Datos\\Acceso_Datos.csproj",
-        "packagesPath": "C:\\Users\\Kevin Quiroga Copa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kevin Quiroga Copa\\Source\\Repos\\ExamenTE_Grupo\\Acceso_Datos\\obj\\",
+        "projectPath": "C:\\Users\\CUATACHO\\Source\\Repos\\Kuatacho\\ExamenTE_Grupo\\Acceso_Datos\\Acceso_Datos.csproj",
+        "packagesPath": "C:\\Users\\CUATACHO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CUATACHO\\Source\\Repos\\Kuatacho\\ExamenTE_Grupo\\Acceso_Datos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kevin Quiroga Copa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CUATACHO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Kevin Quiroga Copa\\Source\\Repos\\ExamenTE_Grupo\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\Kevin Quiroga Copa\\Source\\Repos\\ExamenTE_Grupo\\Entidades\\Entidades.csproj"
+              "C:\\Users\\CUATACHO\\Source\\Repos\\Kuatacho\\ExamenTE_Grupo\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\CUATACHO\\Source\\Repos\\Kuatacho\\ExamenTE_Grupo\\Entidades\\Entidades.csproj"
               }
             }
           }
@@ -46,17 +46,17 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             }
           },
           "imports": [
@@ -75,21 +75,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Kevin Quiroga Copa\\Source\\Repos\\ExamenTE_Grupo\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\CUATACHO\\Source\\Repos\\Kuatacho\\ExamenTE_Grupo\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kevin Quiroga Copa\\Source\\Repos\\ExamenTE_Grupo\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\CUATACHO\\Source\\Repos\\Kuatacho\\ExamenTE_Grupo\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\Kevin Quiroga Copa\\Source\\Repos\\ExamenTE_Grupo\\Entidades\\Entidades.csproj",
-        "packagesPath": "C:\\Users\\Kevin Quiroga Copa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kevin Quiroga Copa\\Source\\Repos\\ExamenTE_Grupo\\Entidades\\obj\\",
+        "projectPath": "C:\\Users\\CUATACHO\\Source\\Repos\\Kuatacho\\ExamenTE_Grupo\\Entidades\\Entidades.csproj",
+        "packagesPath": "C:\\Users\\CUATACHO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CUATACHO\\Source\\Repos\\Kuatacho\\ExamenTE_Grupo\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kevin Quiroga Copa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CUATACHO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -130,21 +130,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Kevin Quiroga Copa\\Source\\Repos\\ExamenTE_Grupo\\Logica_Del_Negocia\\Logica_Del_Negocia.csproj": {
+    "C:\\Users\\CUATACHO\\Source\\Repos\\Kuatacho\\ExamenTE_Grupo\\Logica_Del_Negocia\\Logica_Del_Negocia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kevin Quiroga Copa\\Source\\Repos\\ExamenTE_Grupo\\Logica_Del_Negocia\\Logica_Del_Negocia.csproj",
+        "projectUniqueName": "C:\\Users\\CUATACHO\\Source\\Repos\\Kuatacho\\ExamenTE_Grupo\\Logica_Del_Negocia\\Logica_Del_Negocia.csproj",
         "projectName": "Logica_Del_Negocia",
-        "projectPath": "C:\\Users\\Kevin Quiroga Copa\\Source\\Repos\\ExamenTE_Grupo\\Logica_Del_Negocia\\Logica_Del_Negocia.csproj",
-        "packagesPath": "C:\\Users\\Kevin Quiroga Copa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kevin Quiroga Copa\\Source\\Repos\\ExamenTE_Grupo\\Logica_Del_Negocia\\obj\\",
+        "projectPath": "C:\\Users\\CUATACHO\\Source\\Repos\\Kuatacho\\ExamenTE_Grupo\\Logica_Del_Negocia\\Logica_Del_Negocia.csproj",
+        "packagesPath": "C:\\Users\\CUATACHO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CUATACHO\\Source\\Repos\\Kuatacho\\ExamenTE_Grupo\\Logica_Del_Negocia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kevin Quiroga Copa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CUATACHO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -158,11 +158,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Kevin Quiroga Copa\\Source\\Repos\\ExamenTE_Grupo\\Acceso_Datos\\Acceso_Datos.csproj": {
-                "projectPath": "C:\\Users\\Kevin Quiroga Copa\\Source\\Repos\\ExamenTE_Grupo\\Acceso_Datos\\Acceso_Datos.csproj"
+              "C:\\Users\\CUATACHO\\Source\\Repos\\Kuatacho\\ExamenTE_Grupo\\Acceso_Datos\\Acceso_Datos.csproj": {
+                "projectPath": "C:\\Users\\CUATACHO\\Source\\Repos\\Kuatacho\\ExamenTE_Grupo\\Acceso_Datos\\Acceso_Datos.csproj"
               },
-              "C:\\Users\\Kevin Quiroga Copa\\Source\\Repos\\ExamenTE_Grupo\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\Kevin Quiroga Copa\\Source\\Repos\\ExamenTE_Grupo\\Entidades\\Entidades.csproj"
+              "C:\\Users\\CUATACHO\\Source\\Repos\\Kuatacho\\ExamenTE_Grupo\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\CUATACHO\\Source\\Repos\\Kuatacho\\ExamenTE_Grupo\\Entidades\\Entidades.csproj"
               }
             }
           }
@@ -192,21 +192,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Kevin Quiroga Copa\\Source\\Repos\\ExamenTE_Grupo\\Servicios\\Servicios.csproj": {
+    "C:\\Users\\CUATACHO\\Source\\Repos\\Kuatacho\\ExamenTE_Grupo\\Servicios\\Servicios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kevin Quiroga Copa\\Source\\Repos\\ExamenTE_Grupo\\Servicios\\Servicios.csproj",
+        "projectUniqueName": "C:\\Users\\CUATACHO\\Source\\Repos\\Kuatacho\\ExamenTE_Grupo\\Servicios\\Servicios.csproj",
         "projectName": "Servicios",
-        "projectPath": "C:\\Users\\Kevin Quiroga Copa\\Source\\Repos\\ExamenTE_Grupo\\Servicios\\Servicios.csproj",
-        "packagesPath": "C:\\Users\\Kevin Quiroga Copa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kevin Quiroga Copa\\Source\\Repos\\ExamenTE_Grupo\\Servicios\\obj\\",
+        "projectPath": "C:\\Users\\CUATACHO\\Source\\Repos\\Kuatacho\\ExamenTE_Grupo\\Servicios\\Servicios.csproj",
+        "packagesPath": "C:\\Users\\CUATACHO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CUATACHO\\Source\\Repos\\Kuatacho\\ExamenTE_Grupo\\Servicios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kevin Quiroga Copa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CUATACHO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -214,18 +214,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Kevin Quiroga Copa\\Source\\Repos\\ExamenTE_Grupo\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\Kevin Quiroga Copa\\Source\\Repos\\ExamenTE_Grupo\\Entidades\\Entidades.csproj"
+              "C:\\Users\\CUATACHO\\Source\\Repos\\Kuatacho\\ExamenTE_Grupo\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\CUATACHO\\Source\\Repos\\Kuatacho\\ExamenTE_Grupo\\Entidades\\Entidades.csproj"
               },
-              "C:\\Users\\Kevin Quiroga Copa\\Source\\Repos\\ExamenTE_Grupo\\Logica_Del_Negocia\\Logica_Del_Negocia.csproj": {
-                "projectPath": "C:\\Users\\Kevin Quiroga Copa\\Source\\Repos\\ExamenTE_Grupo\\Logica_Del_Negocia\\Logica_Del_Negocia.csproj"
+              "C:\\Users\\CUATACHO\\Source\\Repos\\Kuatacho\\ExamenTE_Grupo\\Logica_Del_Negocia\\Logica_Del_Negocia.csproj": {
+                "projectPath": "C:\\Users\\CUATACHO\\Source\\Repos\\Kuatacho\\ExamenTE_Grupo\\Logica_Del_Negocia\\Logica_Del_Negocia.csproj"
               }
             }
           }
@@ -242,31 +241,31 @@
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
@@ -288,7 +287,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
