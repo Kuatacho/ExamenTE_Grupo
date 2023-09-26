@@ -1,0 +1,79 @@
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.AssemblyInfoInputs.cache
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.AssemblyInfo.cs
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.csproj.CoreCompileInputs.cache
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Acceso_Datos\bin\Debug\net7.0\Acceso_Datos.deps.json
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Acceso_Datos\bin\Debug\net7.0\Acceso_Datos.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Acceso_Datos\bin\Debug\net7.0\Acceso_Datos.pdb
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Acceso_Datos\bin\Debug\net7.0\Entidades.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Acceso_Datos\bin\Debug\net7.0\Entidades.pdb
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.csproj.AssemblyReference.cache
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.csproj.CopyComplete
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Acceso_Datos\obj\Debug\net7.0\refint\Acceso_Datos.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.pdb
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Acceso_Datos\obj\Debug\net7.0\ref\Acceso_Datos.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Acceso_Datos\bin\Debug\net7.0\Acceso_Datos.deps.json
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Acceso_Datos\bin\Debug\net7.0\Acceso_Datos.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Acceso_Datos\bin\Debug\net7.0\Acceso_Datos.pdb
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Acceso_Datos\bin\Debug\net7.0\Entidades.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Acceso_Datos\bin\Debug\net7.0\Entidades.pdb
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.csproj.AssemblyReference.cache
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.AssemblyInfoInputs.cache
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.AssemblyInfo.cs
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.csproj.CoreCompileInputs.cache
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.csproj.CopyComplete
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Acceso_Datos\obj\Debug\net7.0\refint\Acceso_Datos.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.pdb
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Acceso_Datos\obj\Debug\net7.0\ref\Acceso_Datos.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Acceso_Datos\bin\Debug\net7.0\Acceso_Datos.deps.json
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Acceso_Datos\bin\Debug\net7.0\Acceso_Datos.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Acceso_Datos\bin\Debug\net7.0\Acceso_Datos.pdb
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Acceso_Datos\bin\Debug\net7.0\Entidades.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Acceso_Datos\bin\Debug\net7.0\Entidades.pdb
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.csproj.AssemblyReference.cache
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.GeneratedMSBuildEditorConfig.editorconfig
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.AssemblyInfoInputs.cache
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.AssemblyInfo.cs
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.csproj.CoreCompileInputs.cache
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.csproj.CopyComplete
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Acceso_Datos\obj\Debug\net7.0\refint\Acceso_Datos.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.pdb
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Acceso_Datos\obj\Debug\net7.0\ref\Acceso_Datos.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Acceso_Datos\bin\Debug\net7.0\Acceso_Datos.deps.json
+D:\Material de clases\6to Semestre\Tec\Apis2\Acceso_Datos\bin\Debug\net7.0\Acceso_Datos.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Acceso_Datos\bin\Debug\net7.0\Acceso_Datos.pdb
+D:\Material de clases\6to Semestre\Tec\Apis2\Acceso_Datos\bin\Debug\net7.0\Entidades.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Acceso_Datos\bin\Debug\net7.0\Entidades.pdb
+D:\Material de clases\6to Semestre\Tec\Apis2\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.csproj.AssemblyReference.cache
+D:\Material de clases\6to Semestre\Tec\Apis2\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Material de clases\6to Semestre\Tec\Apis2\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.AssemblyInfoInputs.cache
+D:\Material de clases\6to Semestre\Tec\Apis2\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.AssemblyInfo.cs
+D:\Material de clases\6to Semestre\Tec\Apis2\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.csproj.CoreCompileInputs.cache
+D:\Material de clases\6to Semestre\Tec\Apis2\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.csproj.CopyComplete
+D:\Material de clases\6to Semestre\Tec\Apis2\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Acceso_Datos\obj\Debug\net7.0\refint\Acceso_Datos.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.pdb
+D:\Material de clases\6to Semestre\Tec\Apis2\Acceso_Datos\obj\Debug\net7.0\ref\Acceso_Datos.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Acceso_Datos\bin\Debug\net7.0\Acceso_Datos.runtimeconfig.json
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.genruntimeconfig.cache
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Acceso_Datos\bin\Debug\net7.0\Acceso_Datos.deps.json
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Acceso_Datos\bin\Debug\net7.0\Acceso_Datos.runtimeconfig.json
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Acceso_Datos\bin\Debug\net7.0\Acceso_Datos.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Acceso_Datos\bin\Debug\net7.0\Acceso_Datos.pdb
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Acceso_Datos\bin\Debug\net7.0\Entidades.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Acceso_Datos\bin\Debug\net7.0\Entidades.pdb
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.csproj.AssemblyReference.cache
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.AssemblyInfoInputs.cache
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.AssemblyInfo.cs
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.csproj.CopyComplete
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Acceso_Datos\obj\Debug\net7.0\refint\Acceso_Datos.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.pdb
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Acceso_Datos\obj\Debug\net7.0\Acceso_Datos.genruntimeconfig.cache
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Acceso_Datos\obj\Debug\net7.0\ref\Acceso_Datos.dll

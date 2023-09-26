@@ -1,0 +1,85 @@
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.AssemblyInfoInputs.cache
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.AssemblyInfo.cs
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.csproj.CoreCompileInputs.cache
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Logica_Del_Negocia\bin\Debug\net7.0\Logica_Del_Negocia.deps.json
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Logica_Del_Negocia\bin\Debug\net7.0\Logica_Del_Negocia.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Logica_Del_Negocia\bin\Debug\net7.0\Logica_Del_Negocia.pdb
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Logica_Del_Negocia\bin\Debug\net7.0\Acceso_Datos.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Logica_Del_Negocia\bin\Debug\net7.0\Entidades.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Logica_Del_Negocia\bin\Debug\net7.0\Acceso_Datos.pdb
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Logica_Del_Negocia\bin\Debug\net7.0\Entidades.pdb
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.csproj.AssemblyReference.cache
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.csproj.CopyComplete
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Logica_Del_Negocia\obj\Debug\net7.0\refint\Logica_Del_Negocia.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.pdb
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Logica_Del_Negocia\obj\Debug\net7.0\ref\Logica_Del_Negocia.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Logica_Del_Negocia\bin\Debug\net7.0\Logica_Del_Negocia.deps.json
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Logica_Del_Negocia\bin\Debug\net7.0\Logica_Del_Negocia.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Logica_Del_Negocia\bin\Debug\net7.0\Logica_Del_Negocia.pdb
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Logica_Del_Negocia\bin\Debug\net7.0\Acceso_Datos.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Logica_Del_Negocia\bin\Debug\net7.0\Entidades.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Logica_Del_Negocia\bin\Debug\net7.0\Acceso_Datos.pdb
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Logica_Del_Negocia\bin\Debug\net7.0\Entidades.pdb
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.csproj.AssemblyReference.cache
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.AssemblyInfoInputs.cache
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.AssemblyInfo.cs
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.csproj.CoreCompileInputs.cache
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.csproj.CopyComplete
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Logica_Del_Negocia\obj\Debug\net7.0\refint\Logica_Del_Negocia.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.pdb
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Logica_Del_Negocia\obj\Debug\net7.0\ref\Logica_Del_Negocia.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Logica_Del_Negocia\bin\Debug\net7.0\Logica_Del_Negocia.deps.json
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Logica_Del_Negocia\bin\Debug\net7.0\Logica_Del_Negocia.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Logica_Del_Negocia\bin\Debug\net7.0\Logica_Del_Negocia.pdb
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Logica_Del_Negocia\bin\Debug\net7.0\Acceso_Datos.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Logica_Del_Negocia\bin\Debug\net7.0\Entidades.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Logica_Del_Negocia\bin\Debug\net7.0\Acceso_Datos.pdb
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Logica_Del_Negocia\bin\Debug\net7.0\Entidades.pdb
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.csproj.AssemblyReference.cache
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.GeneratedMSBuildEditorConfig.editorconfig
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.AssemblyInfoInputs.cache
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.AssemblyInfo.cs
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.csproj.CoreCompileInputs.cache
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.csproj.CopyComplete
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Logica_Del_Negocia\obj\Debug\net7.0\refint\Logica_Del_Negocia.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.pdb
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Logica_Del_Negocia\obj\Debug\net7.0\ref\Logica_Del_Negocia.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Logica_Del_Negocia\bin\Debug\net7.0\Logica_Del_Negocia.deps.json
+D:\Material de clases\6to Semestre\Tec\Apis2\Logica_Del_Negocia\bin\Debug\net7.0\Logica_Del_Negocia.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Logica_Del_Negocia\bin\Debug\net7.0\Logica_Del_Negocia.pdb
+D:\Material de clases\6to Semestre\Tec\Apis2\Logica_Del_Negocia\bin\Debug\net7.0\Acceso_Datos.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Logica_Del_Negocia\bin\Debug\net7.0\Entidades.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Logica_Del_Negocia\bin\Debug\net7.0\Acceso_Datos.pdb
+D:\Material de clases\6to Semestre\Tec\Apis2\Logica_Del_Negocia\bin\Debug\net7.0\Entidades.pdb
+D:\Material de clases\6to Semestre\Tec\Apis2\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.csproj.AssemblyReference.cache
+D:\Material de clases\6to Semestre\Tec\Apis2\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Material de clases\6to Semestre\Tec\Apis2\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.AssemblyInfoInputs.cache
+D:\Material de clases\6to Semestre\Tec\Apis2\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.AssemblyInfo.cs
+D:\Material de clases\6to Semestre\Tec\Apis2\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.csproj.CoreCompileInputs.cache
+D:\Material de clases\6to Semestre\Tec\Apis2\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.csproj.CopyComplete
+D:\Material de clases\6to Semestre\Tec\Apis2\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Logica_Del_Negocia\obj\Debug\net7.0\refint\Logica_Del_Negocia.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.pdb
+D:\Material de clases\6to Semestre\Tec\Apis2\Logica_Del_Negocia\obj\Debug\net7.0\ref\Logica_Del_Negocia.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Logica_Del_Negocia\bin\Debug\net7.0\Logica_Del_Negocia.deps.json
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Logica_Del_Negocia\bin\Debug\net7.0\Logica_Del_Negocia.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Logica_Del_Negocia\bin\Debug\net7.0\Logica_Del_Negocia.pdb
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Logica_Del_Negocia\bin\Debug\net7.0\Acceso_Datos.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Logica_Del_Negocia\bin\Debug\net7.0\Entidades.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Logica_Del_Negocia\bin\Debug\net7.0\Acceso_Datos.pdb
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Logica_Del_Negocia\bin\Debug\net7.0\Entidades.pdb
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.csproj.AssemblyReference.cache
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.AssemblyInfoInputs.cache
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.AssemblyInfo.cs
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.csproj.CopyComplete
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Logica_Del_Negocia\obj\Debug\net7.0\refint\Logica_Del_Negocia.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Logica_Del_Negocia\obj\Debug\net7.0\Logica_Del_Negocia.pdb
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Logica_Del_Negocia\obj\Debug\net7.0\ref\Logica_Del_Negocia.dll

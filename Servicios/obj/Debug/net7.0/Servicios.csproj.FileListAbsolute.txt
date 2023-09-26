@@ -1,0 +1,414 @@
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\Servicios.csproj.AssemblyReference.cache
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\Servicios.AssemblyInfo.cs
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\Servicios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\appsettings.json
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Servicios.exe
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Servicios.deps.json
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Servicios.runtimeconfig.json
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Servicios.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Servicios.pdb
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Humanizer.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Acceso_Datos.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Entidades.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Logica_Del_Negocia.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Entidades.pdb
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Logica_Del_Negocia.pdb
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Acceso_Datos.pdb
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\staticwebassets\msbuild.Servicios.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\staticwebassets\msbuild.build.Servicios.props
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Servicios.props
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Servicios.props
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\scopedcss\bundle\Servicios.styles.css
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\Servicios.csproj.CopyComplete
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\Servicios.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\refint\Servicios.dll
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\Servicios.pdb
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\Servicios.genruntimeconfig.cache
+C:\Users\draze\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\ref\Servicios.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\appsettings.json
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Servicios.exe
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Servicios.deps.json
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Servicios.runtimeconfig.json
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Servicios.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Servicios.pdb
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Humanizer.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Acceso_Datos.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Entidades.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Logica_Del_Negocia.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Entidades.pdb
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Logica_Del_Negocia.pdb
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\bin\Debug\net7.0\Acceso_Datos.pdb
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\Servicios.csproj.AssemblyReference.cache
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\Servicios.AssemblyInfo.cs
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\Servicios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\Servicios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\staticwebassets\msbuild.Servicios.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\staticwebassets\msbuild.build.Servicios.props
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Servicios.props
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Servicios.props
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\scopedcss\bundle\Servicios.styles.css
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\Servicios.csproj.CopyComplete
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\Servicios.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\refint\Servicios.dll
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\Servicios.pdb
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\Servicios.genruntimeconfig.cache
+C:\Users\DRAZEN\Source\Repos\Proyecto_Tecnologias\Servicios\obj\Debug\net7.0\ref\Servicios.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\obj\Debug\net7.0\Servicios.csproj.AssemblyReference.cache
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\obj\Debug\net7.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\obj\Debug\net7.0\Servicios.AssemblyInfoInputs.cache
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\obj\Debug\net7.0\Servicios.AssemblyInfo.cs
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\obj\Debug\net7.0\Servicios.csproj.CoreCompileInputs.cache
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\obj\Debug\net7.0\Servicios.MvcApplicationPartsAssemblyInfo.cs
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\obj\Debug\net7.0\Servicios.MvcApplicationPartsAssemblyInfo.cache
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\obj\Debug\net7.0\Servicios.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\obj\Debug\net7.0\refint\Servicios.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\obj\Debug\net7.0\Servicios.pdb
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\appsettings.Development.json
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\appsettings.json
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Servicios.exe
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Servicios.deps.json
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Servicios.runtimeconfig.json
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Servicios.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Servicios.pdb
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Azure.Core.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Azure.Identity.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Humanizer.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\System.CodeDom.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\System.Memory.Data.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Acceso_Datos.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Entidades.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Logica_Del_Negocia.dll
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Entidades.pdb
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Logica_Del_Negocia.pdb
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\bin\Debug\net7.0\Acceso_Datos.pdb
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\obj\Debug\net7.0\staticwebassets\msbuild.Servicios.Microsoft.AspNetCore.StaticWebAssets.props
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\obj\Debug\net7.0\staticwebassets\msbuild.build.Servicios.props
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Servicios.props
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Servicios.props
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\obj\Debug\net7.0\staticwebassets.pack.json
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\obj\Debug\net7.0\staticwebassets.build.json
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\obj\Debug\net7.0\staticwebassets.development.json
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\obj\Debug\net7.0\scopedcss\bundle\Servicios.styles.css
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\obj\Debug\net7.0\Servicios.csproj.CopyComplete
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\obj\Debug\net7.0\Servicios.genruntimeconfig.cache
+E:\material de clase y libros\6to Semestre\Tecnologias Emergentes I\ApiTresCapas\Servicios\obj\Debug\net7.0\ref\Servicios.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\appsettings.Development.json
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\appsettings.json
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Servicios.exe
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Servicios.deps.json
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Servicios.runtimeconfig.json
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Servicios.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Servicios.pdb
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Azure.Core.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Azure.Identity.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Humanizer.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\System.CodeDom.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Acceso_Datos.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Entidades.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Logica_Del_Negocia.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Entidades.pdb
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Logica_Del_Negocia.pdb
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\bin\Debug\net7.0\Acceso_Datos.pdb
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\obj\Debug\net7.0\Servicios.csproj.AssemblyReference.cache
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\obj\Debug\net7.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\obj\Debug\net7.0\Servicios.AssemblyInfoInputs.cache
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\obj\Debug\net7.0\Servicios.AssemblyInfo.cs
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\obj\Debug\net7.0\Servicios.csproj.CoreCompileInputs.cache
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\obj\Debug\net7.0\Servicios.MvcApplicationPartsAssemblyInfo.cs
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\obj\Debug\net7.0\Servicios.MvcApplicationPartsAssemblyInfo.cache
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\obj\Debug\net7.0\staticwebassets\msbuild.Servicios.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\obj\Debug\net7.0\staticwebassets\msbuild.build.Servicios.props
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Servicios.props
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Servicios.props
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\obj\Debug\net7.0\staticwebassets.build.json
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\obj\Debug\net7.0\staticwebassets.development.json
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\obj\Debug\net7.0\scopedcss\bundle\Servicios.styles.css
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\obj\Debug\net7.0\Servicios.csproj.CopyComplete
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\obj\Debug\net7.0\Servicios.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\obj\Debug\net7.0\refint\Servicios.dll
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\obj\Debug\net7.0\Servicios.pdb
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\obj\Debug\net7.0\Servicios.genruntimeconfig.cache
+D:\Material de clases\6to Semestre\Tec\Apis2\Servicios\obj\Debug\net7.0\ref\Servicios.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\appsettings.json
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Servicios.exe
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Servicios.deps.json
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Servicios.runtimeconfig.json
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Servicios.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Servicios.pdb
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Acceso_Datos.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Entidades.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Logica_Del_Negocia.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Entidades.pdb
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Logica_Del_Negocia.pdb
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\bin\Debug\net7.0\Acceso_Datos.pdb
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\obj\Debug\net7.0\Servicios.csproj.AssemblyReference.cache
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\obj\Debug\net7.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\obj\Debug\net7.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\obj\Debug\net7.0\Servicios.AssemblyInfo.cs
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\obj\Debug\net7.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\obj\Debug\net7.0\Servicios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\obj\Debug\net7.0\Servicios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\obj\Debug\net7.0\staticwebassets\msbuild.Servicios.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\obj\Debug\net7.0\staticwebassets\msbuild.build.Servicios.props
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Servicios.props
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Servicios.props
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\obj\Debug\net7.0\scopedcss\bundle\Servicios.styles.css
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\obj\Debug\net7.0\Servicios.csproj.CopyComplete
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\obj\Debug\net7.0\Servicios.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\obj\Debug\net7.0\refint\Servicios.dll
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\obj\Debug\net7.0\Servicios.pdb
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\obj\Debug\net7.0\Servicios.genruntimeconfig.cache
+C:\Users\Kevin Quiroga Copa\Downloads\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab (1)\Proyecto_Tecnologias-ed21b7d8b14f27fef0266777a3646875884fa9ab\Servicios\obj\Debug\net7.0\ref\Servicios.dll
